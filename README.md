@@ -1,10 +1,10 @@
-### Hi there 👋
+### 
 
 -->
-- 🔭 I’m currently working on App development with Java
-- 🌱 I’m currently learning to become a full stack software engineer and an electrical engineer
-- 👯 I’m looking to collaborate on software engineering projects
-- 🤔 I’m looking for help with basic C and Java problems
+- 👋 Hi, I'm @cappochinho
+- 🔭 I’m currently working on App development with Java Spring Boot
+- 🌱 I’m currently learning to become a full stack software engineer @ ALX and an electrical engineer @ KNUST
+- 👯 I’m looking to collaborate on engineering projects
 - 💬 Ask me about anything concerning computer programming
 - 📫 How to reach me: Twitter/Instagram: @cappochinho
 - LinkedIn: https://www.linkedin.com/in/edward-junior-agyemang-prempeh-1823641a5/

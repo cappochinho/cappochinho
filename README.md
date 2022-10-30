@@ -9,6 +9,5 @@
 - 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/edward-junior-agyemang-prempeh-1823641a5/
 - Twitter: https://twitter.com/cappochinho
-- 😄 Pronouns: He / Him
 - ⚡ Fun fact: I'm a professional singer and songwriter!
 -->

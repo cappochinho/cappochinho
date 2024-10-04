@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open-source engineering projects
 - 💬 Ask me about software engineering and electrical engineering
 - 📫 How to reach me
-- LinkedIn: https://www.linkedin.com/in/edward-junior-agyemang-prempeh-1823641a5/
+- LinkedIn: https://www.linkedin.com/in/edward-jr-agyemang-prempeh-1823641a5/
 - Twitter: https://twitter.com/cappochinho
 - ⚡ Fun fact: I'm a professional singer and songwriter!
 -->

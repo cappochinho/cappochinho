@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently build a life around technology<br>Looking to collaborate on open source projects
+I'm currently building a life around technology<br>Looking to collaborate on open source projects
 
 
 ## 🌐 Socials:
